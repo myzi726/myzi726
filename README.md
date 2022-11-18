@@ -1,4 +1,4 @@
-<div align="center" background-color="black">
+<div align="center" bgcolor="black">
   <h1>Hello, I'm MYEONGJI PARK 👋</h1>
 
 ---
