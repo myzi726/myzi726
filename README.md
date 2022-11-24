@@ -1,14 +1,11 @@
 <div align="center" bgcolor="black">
   <h1>Hello, I'm MYEONGJI PARK 👋</h1>
-
----
   
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myzi726&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   <br />
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myzi726&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <br />
 
----
 <h3>⚒ Tech ⚒</h3>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
