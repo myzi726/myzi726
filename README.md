@@ -1,6 +1,8 @@
 <div align="center" bgcolor="black">
-  <h1>Hello, I'm MYEONGJI PARK 👋</h1>
-  
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Hello%20I'm%20MYEONGJI%20PARK&fontSize=50&animation=fadeIn" />
+  <br />
+  <br />
+
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myzi726&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   <br />
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myzi726&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
