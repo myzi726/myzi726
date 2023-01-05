@@ -1,8 +1,4 @@
 <div align="center" bgcolor="black">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Hello%20I'm%20MYEONGJI%20PARK&fontSize=50&animation=fadeIn" />
-  <br />
-  <br />
-  <br />
   
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myzi726&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   <br />
