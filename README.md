@@ -5,9 +5,8 @@
  
 <h3 align="center"> <b> 💌 Social 💌 </b> </h3>
 <p align="center">
-<a href="mailto:pmmmg726@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pmmmg726@gmail.com"/>
 <a href="https://www.instagram.com/myxxnxxi"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/myxxnxxi"/>
-<a href="https://velog.io/@myzi726"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@myzi726"/>
+<a href="https://velog.io/@mzi726"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@mzi726"/>
 </p>
                                                                                                                                            
  <br />
