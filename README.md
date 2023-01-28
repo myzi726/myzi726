@@ -34,7 +34,10 @@
                                                                                                                            
 <br />
 
-
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myzi726&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  <br />
+<br />
+<p>
+ <img src="https://github-readme-stats.vercel.app/api?username=myzi726&show_icons=true">
+ </p>
+ 
 </div>
