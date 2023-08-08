@@ -30,7 +30,9 @@
  
 <h3 align="center"> 💌 Contact me 💌 </h3>
   <p align="center">
-  <a href="https://www.instagram.com/myxxnxxi"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/myxxnxxi"/>
+   <a href="pmmmg726@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
   <a href="https://velog.io/@mzi726"><img src="http://img.shields.io/badge/-Velog-20c997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@mzi726"/>
   </p>
 
