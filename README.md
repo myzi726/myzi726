@@ -1,6 +1,6 @@
 <div align="center" bgcolor="black">
  
-![header](https://capsule-render.vercel.app/api?type=waving&text=MyeongJi's%20Github&color=timeAuto&height=250&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&text=MyeongJi's%20Github&color=gradient&height=200&fontSize=50&fontAlign=72&fontAlignY=35)
                                                                                                                                            
                                                                                                                                            
 <h3 align="center"> ⚒️ Tech Stack ⚒️ </h3>
@@ -12,13 +12,15 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   </p>
- 
+
+  <br />
  
 <h3 align="center"> 📚 Study 📚 </h3>
   <p align="center">                                                                                        
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
   </p>
-  
+
+ <br />
  
 <h3 align="center"> 🖥️ Tools 🖥️ </h3>
   <p align="center">                                                                                        
@@ -26,7 +28,8 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-000000?style=flat&logo=Github&logoColor=white"/>
   </p>
- 
+
+  <br />
  
 <h3 align="center"> 💌 Contact me 💌 </h3>
   <p align="center">
@@ -35,7 +38,10 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
   <a href="https://velog.io/@mzi726"><img src="http://img.shields.io/badge/-Velog-20c997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@mzi726"/>
   </p>
-
+   
+<!-- 깃허브 3D 잔디
+ ! ![](./profile-3d-contrib/profile-season-animate.svg)
+-->
  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
 </div>
