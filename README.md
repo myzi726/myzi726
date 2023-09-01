@@ -38,10 +38,9 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
   <a href="https://velog.io/@mzi726"><img src="http://img.shields.io/badge/-Velog-20c997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@mzi726"/>
   </p>
-   
-<!-- 깃허브 3D 잔디
- ! ![](./profile-3d-contrib/profile-season-animate.svg)
--->
+
+
+![](./profile-3d-contrib/profile-season-animate.svg)
  
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
 </div>
