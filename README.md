@@ -1,8 +1,5 @@
 <div align="center" bgcolor="black">
- 
-![header](https://capsule-render.vercel.app/api?type=waving&text=MyeongJi's%20Github&color=gradient&height=200&fontSize=50&fontAlign=72&fontAlignY=35)
-                                                                                                                                           
-                                                                                                                                           
+                                                                                                                                                                                                                                                                                    
 <h3 align="center"> ⚒️ Tech Stack ⚒️ </h3>
   <p align="center">                                                                                                                                       
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
@@ -38,9 +35,5 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
   <a href="https://velog.io/@mzi726"><img src="http://img.shields.io/badge/-Velog-20c997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@mzi726"/>
   </p>
-
-
-![](./profile-3d-contrib/profile-season-animate.svg)
  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
 </div>
