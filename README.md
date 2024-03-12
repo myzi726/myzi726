@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 
 <h1>☁️ PARK MYEONGJI</h1>
 
